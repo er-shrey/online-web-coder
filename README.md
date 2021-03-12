@@ -3,6 +3,8 @@
 This is a clone and mini version of codepen.io
 You can test your html css and js sckills to create awesome web pages
 
+![alt text](/images/code.png)
+
 
 ## Tech Stack:
 - React 16.13
